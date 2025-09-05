@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+
+#Arquivo teste utilizado de auxilio na criação do lucas.txt
+teste.txt
